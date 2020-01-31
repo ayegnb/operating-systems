@@ -1,6 +1,6 @@
 # CSCI332 Operating Systems
 
-Course Description
+### Course Description
 
 The course introduces students to Operating Systems, their concepts and building blocks. The students will learn
 to understand, apply, and extend these concepts through a focus on systems programming in the UNIX
@@ -8,7 +8,7 @@ environment. They will be introduced to the main components of modern computer o
 allocation, process scheduling, memory management, file systems, management of input and output devices,
 multi-processor systems and synchronization.
 
-Course Outcomes
+### Course Outcomes
 
 After taking and successfully passing this course, the students will be able to
 1. Use a UNIX operating system as a user and as a developer
